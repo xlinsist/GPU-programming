@@ -1,0 +1,17 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z17vec_max_index_kerILi10ELi128EEvPfS0_i' for 'sm_70'
+ptxas info    : Function properties for _Z17vec_max_index_kerILi10ELi128EEvPfS0_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 31 registers, 5120 bytes smem, 372 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z12gemmNT_T_kerILi10ELi16ELi1ELi1EEvPKfS1_PfS1_iiii' for 'sm_70'
+ptxas info    : Function properties for _Z12gemmNT_T_kerILi10ELi16ELi1ELi1EEvPKfS1_PfS1_iiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 40 registers, 3432 bytes smem, 400 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z12gemmNT_T_kerILi32ELi128ELi2ELi8EEvPKfS1_PfS1_iiii' for 'sm_70'
+ptxas info    : Function properties for _Z12gemmNT_T_kerILi32ELi128ELi2ELi8EEvPKfS1_PfS1_iiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 64 registers, 21120 bytes smem, 400 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z18batch_conv2d_f_kerILi2ELi2ELi0ELi1ELi28ELi28ELi1EEvPfiiiiPKfiiS2_iiS0_i' for 'sm_70'
+ptxas info    : Function properties for _Z18batch_conv2d_f_kerILi2ELi2ELi0ELi1ELi28ELi28ELi1EEvPfiiiiPKfiiS2_iiS0_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 30 registers, 420 bytes cmem[0]
